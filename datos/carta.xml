@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<menu restaurante="Ándele Mexperience">
+<menu
+    restaurante="Ándele Mexperience"
+    ciudad="Barcelona"
+    horario="Mar–Dom: 13:00–16:00 / 20:00–00:00">
+
+    <!-- ============================================================
+         TIPOS DE PLATO
+         Para añadir una nueva sección al menú, añade un <tipo> aquí
+         y usa ese mismo id como atributo tipo="..." en tus <plato>.
+         ============================================================ -->
+    <tipos>
+        <tipo id="botana"    label="Botanas"    icono="fa-bowl-food"   />
+        <tipo id="entrante"  label="Antojitos"  icono="fa-utensils"    />
+        <tipo id="principal" label="Platillos"  icono="fa-plate-wheat" />
+        <tipo id="taco"      label="Puro Taco"  icono="fa-taco"        />
+        <tipo id="postre"    label="Postres"    icono="fa-ice-cream"   />
+    </tipos>
+
+    <!-- ============================================================
+         CATEGORÍAS / BADGES
+         Para añadir una nueva etiqueta, añade un <categoria> aquí
+         y úsala dentro de <ingredientes> en cualquier plato.
+         ============================================================ -->
+    <categorias>
+        <categoria id="vegano"       label="Vegano"           icono="fa-leaf"                         color="#27a91e" />
+        <categoria id="vegetariano"  label="Vegetariano"      icono="fa-seedling"                     color="#8bc34a" />
+        <categoria id="sin-gluten"   label="Sin Gluten"       icono="fa-wheat-awn-circle-exclamation"  color="#ff9800" />
+        <categoria id="picante"      label="Picante"          icono="fa-fire"                         color="#f44336" />
+        <categoria id="carne"        label="Carne"            icono="fa-drumstick-bite"               color="#795548" />
+        <categoria id="pescado"      label="Pescado/Mariscos" icono="fa-fish"                         color="#2196f3" />
+        <categoria id="lacteo"       label="Lácteo"           icono="fa-cow"                          color="#90a4ae" />
+        <categoria id="destacado"    label="Destacado"        icono="fa-star"                         color="#ffc107" />
+    </categorias>
+
+    <!-- PLATOS -->
 
     <plato tipo="botana">
         <nombre>Queso Panela a la Plancha</nombre>
