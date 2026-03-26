@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu restaurante="Ándele Mexperience">
+
+    <plato tipo="botana">
+        <nombre>Queso Panela a la Plancha</nombre>
+        <precio>7.00</precio>
+        <descripcion>Queso panela fresco a la plancha servido con salsa verde casera y tortillas de maíz calientes.</descripcion>
+        <calorias>320</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>sin-gluten</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="botana">
+        <nombre>Guacamole Ándele</nombre>
+        <precio>11.00</precio>
+        <descripcion>Aguacate fresco machacado con cebolla, cilantro, pico de gallo y chile serrano. Recién hecho al momento.</descripcion>
+        <calorias>280</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin-gluten</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="botana">
+        <nombre>Nachos Ándele</nombre>
+        <precio>11.00</precio>
+        <descripcion>Totopos de maíz artesanales con frijoles refritos, queso fundido, pico de gallo y chile jalapeño.</descripcion>
+        <calorias>620</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="botana">
+        <nombre>Arrolladitos de Lomo</nombre>
+        <precio>8.00</precio>
+        <descripcion>Rollitos de lomo de cerdo rellenos de queso fundido y chile chipotle. Servidos en ración de 4 unidades.</descripcion>
+        <calorias>480</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>picante</categoria>
+            <categoria>sin-gluten</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="entrante">
+        <nombre>Cebiche Acapulco</nombre>
+        <precio>12.00</precio>
+        <descripcion>Pescado fresco y camarones marinados en aguachile de jitomate, cebolla morada y cilantro.</descripcion>
+        <calorias>210</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>pescado</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="entrante">
+        <nombre>Cebiche Verde</nombre>
+        <precio>12.00</precio>
+        <descripcion>Pescado fresco marinado en aguachile de lima y cilantro fresco, con pepino y aguacate.</descripcion>
+        <calorias>195</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>pescado</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="entrante">
+        <nombre>Ensalada de Quinoa</nombre>
+        <precio>9.00</precio>
+        <descripcion>Quinoa con aguacate, nopalitos salteados, vinagreta de mango y semillas de cilantro tostadas.</descripcion>
+        <calorias>340</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin-gluten</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="entrante">
+        <nombre>Sopa de Tortilla y Camarón</nombre>
+        <precio>10.00</precio>
+        <descripcion>Sopa tradicional con base de tomate y chile pasilla, langostinos, chiles secos, cilantro y lima.</descripcion>
+        <calorias>390</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>pescado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="entrante">
+        <nombre>Champiqueso</nombre>
+        <precio>11.00</precio>
+        <descripcion>Queso Oaxaca fundido con champiñones confitados al ajillo y hierbas frescas. Servido con totopos.</descripcion>
+        <calorias>540</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="entrante">
+        <nombre>Ravioles de Huitlacoche</nombre>
+        <precio>12.00</precio>
+        <descripcion>Ravioles rellenos de huitlacoche con crema de flor de calabaza y esquites de maíz tostado.</descripcion>
+        <calorias>460</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="principal">
+        <nombre>Chile en Nogada</nombre>
+        <precio>12.00</precio>
+        <descripcion>Chile poblano relleno de picadillo de carne y fruta de temporada, cubierto con salsa de nuez nogada y granada.</descripcion>
+        <calorias>720</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>lacteo</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="principal">
+        <nombre>Camarones Endiablados</nombre>
+        <precio>14.00</precio>
+        <descripcion>Langostinos salteados en salsa cremosa de chiles rojos y jitomate asado, con arroz y frijoles.</descripcion>
+        <calorias>580</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>pescado</categoria>
+            <categoria>picante</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="principal">
+        <nombre>Cochinita Pibil</nombre>
+        <precio>14.00</precio>
+        <descripcion>Cerdo marinado en achiote y naranja agria cocinado lentamente en hojas de plátano. Con cebolla morada encurtida.</descripcion>
+        <calorias>690</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>carne</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="principal">
+        <nombre>Tinga de Guajolote</nombre>
+        <precio>14.00</precio>
+        <descripcion>Pavo guisado con chile chipotle en salsa roja, acompañado de quesillo de Oaxaca y crema agria.</descripcion>
+        <calorias>610</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>carne</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="principal">
+        <nombre>Costilla de Buey al Mezcal</nombre>
+        <precio>28.00</precio>
+        <descripcion>Costilla de buey de 600 gr. asada lentamente con mole negro oaxaqueño, arroz y rajas con crema.</descripcion>
+        <calorias>1100</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>carne</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="principal">
+        <nombre>Emparrillado de Verduras</nombre>
+        <precio>13.00</precio>
+        <descripcion>Verduras de temporada a la parrilla: calabacín, pimiento, nopales y elote con salsa verde de aguacate.</descripcion>
+        <calorias>310</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin-gluten</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="taco">
+        <nombre>Tacos de Bacalao</nombre>
+        <precio>13.00</precio>
+        <descripcion>3 tacos de bacalao desmechado con guacamole fresco y salsa de achiote en tortilla de maíz azul.</descripcion>
+        <calorias>420</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>pescado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="taco">
+        <nombre>Tacos al Pastor</nombre>
+        <precio>12.00</precio>
+        <descripcion>3 tacos de cerdo marinado en achiote con piña fresca, cebolla y cilantro. El clásico mexicano.</descripcion>
+        <calorias>510</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>carne</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="taco">
+        <nombre>Tacos de Carnitas</nombre>
+        <precio>12.00</precio>
+        <descripcion>3 tacos de cerdo asado lentamente hasta textura crujiente, con aguacate y salsa de tomatillo verde.</descripcion>
+        <calorias>560</calorias>
+        <ingredientes>
+            <categoria>sin-gluten</categoria>
+            <categoria>carne</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="taco">
+        <nombre>Tacos de Shitake</nombre>
+        <precio>12.00</precio>
+        <descripcion>3 tacos con setas shitake salteadas al ajillo, cebolla morada y cilantro fresco. Opción vegana perfecta.</descripcion>
+        <calorias>290</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin-gluten</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="postre">
+        <nombre>Churros con Chocolate</nombre>
+        <precio>7.00</precio>
+        <descripcion>Churros artesanales recién fritos con azúcar y canela, acompañados de chocolate negro caliente.</descripcion>
+        <calorias>580</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+            <categoria>destacado</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="postre">
+        <nombre>Flan de Cajeta</nombre>
+        <precio>6.00</precio>
+        <descripcion>Flan artesanal de huevo y vainilla con cajeta de cabra, crema batida y nuez pecana tostada.</descripcion>
+        <calorias>490</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>sin-gluten</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="postre">
+        <nombre>Pastel de Tres Leches</nombre>
+        <precio>6.50</precio>
+        <descripcion>Bizcocho esponjoso empapado en leche evaporada, condensada y crema de leche, con nata y frutas.</descripcion>
+        <calorias>620</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+
+</menu>
